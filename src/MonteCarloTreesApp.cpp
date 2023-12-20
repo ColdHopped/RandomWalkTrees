@@ -45,9 +45,9 @@ private:
 
 	// Path of the random walks
 	int numberOfSteps = 100;
-	int numberOfStartingPoints = 3;
+	int numberOfStartingPoints = 5;
 	// Weight to define how much the interaction should add up
-	float interactionWeight = 0.1;
+	float interactionWeight = 0.1f;
 	vector<vector<vec3>> walkPath;
 
 	// Step counter of the random walks
