@@ -50,6 +50,10 @@ private:
 	float interactionWeight = 0.01f;
 	vector<vector<vec3>> walkPath;
 
+	// Screening of the potential within distance screeningSize of a particle
+	// It seems the random walk flies away when it come too close
+	float screeningSize = 0.1f;
+
 	// Step counter of the random walks
 	int currentStep = 0;
 
@@ -326,6 +330,15 @@ vec3 MonteCarloTreesApp::generateWeightedRandomWalk(float x, float y, float z)
 		float distance = glm::length(difference);
 		// Define interaction magnitude as 1/r^2
 		float forceMagnitude = 1.0f / (distance * distance);
+
+		// Particles seem to fly away when too close to a particle; interaction explodes
+		if(distance < screeningSize)
+		{
+			console() << "Particle screened." << endl;
+			interaction = { 1, 1, 1 };
+			break;
+		}
+
 		// Calculate interaction
 		interaction -= forceMagnitude * direction;
 	}
