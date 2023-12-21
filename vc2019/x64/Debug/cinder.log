@@ -1,0 +1,205 @@
+|debug  | 2023-12-20.17:05:28 MonteCarloTreesApp::setup[84] Starting setup at 0.173844 s
+|debug  | 2023-12-20.17:05:28 MonteCarloTreesApp::update[119] 	Currentstep: 	0
+|debug  | 2023-12-20.17:05:28 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:28 MonteCarloTreesApp::update[119] 	Currentstep: 	1
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::update[119] 	Currentstep: 	2
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::update[119] 	Currentstep: 	3
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::update[119] 	Currentstep: 	4
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::update[119] 	Currentstep: 	5
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::update[119] 	Currentstep: 	6
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::update[119] 	Currentstep: 	7
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::update[119] 	Currentstep: 	8
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:29 MonteCarloTreesApp::update[119] 	Currentstep: 	9
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	10
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	11
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	12
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	13
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	14
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	15
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	16
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	17
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:30 MonteCarloTreesApp::update[119] 	Currentstep: 	18
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	19
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	20
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	21
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	22
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	23
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	24
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	25
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	26
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:31 MonteCarloTreesApp::update[119] 	Currentstep: 	27
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	28
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	29
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	30
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	31
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	32
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	33
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	34
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	35
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:32 MonteCarloTreesApp::update[119] 	Currentstep: 	36
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	37
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	38
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	39
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	40
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	41
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	42
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	43
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	44
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:33 MonteCarloTreesApp::update[119] 	Currentstep: 	45
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::update[119] 	Currentstep: 	46
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::update[119] 	Currentstep: 	47
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::update[119] 	Currentstep: 	48
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::update[119] 	Currentstep: 	49
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::update[119] 	Currentstep: 	50
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::update[119] 	Currentstep: 	51
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::update[119] 	Currentstep: 	52
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:34 MonteCarloTreesApp::update[119] 	Currentstep: 	53
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	54
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	55
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	56
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	57
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	58
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	59
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	60
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	61
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:35 MonteCarloTreesApp::update[119] 	Currentstep: 	62
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::update[119] 	Currentstep: 	63
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::update[119] 	Currentstep: 	64
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::update[119] 	Currentstep: 	65
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::update[119] 	Currentstep: 	66
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::update[119] 	Currentstep: 	67
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::update[119] 	Currentstep: 	68
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::update[119] 	Currentstep: 	69
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:36 MonteCarloTreesApp::update[119] 	Currentstep: 	70
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	71
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	72
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	73
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	74
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	75
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	76
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	77
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	78
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:37 MonteCarloTreesApp::update[119] 	Currentstep: 	79
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::update[119] 	Currentstep: 	80
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::update[119] 	Currentstep: 	81
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::update[119] 	Currentstep: 	82
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::update[119] 	Currentstep: 	83
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::update[119] 	Currentstep: 	84
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::update[119] 	Currentstep: 	85
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::update[119] 	Currentstep: 	86
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:38 MonteCarloTreesApp::update[119] 	Currentstep: 	87
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	88
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	89
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	90
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	91
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	92
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	93
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	94
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	95
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:39 MonteCarloTreesApp::update[119] 	Currentstep: 	96
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::update[119] 	Currentstep: 	97
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::update[119] 	Currentstep: 	98
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::update[119] 	Currentstep: 	99
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::update[119] 	Currentstep: 	100
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::draw[164] 
+|debug  | 2023-12-20.17:05:40 MonteCarloTreesApp::update[119] 	Currentstep: 	101

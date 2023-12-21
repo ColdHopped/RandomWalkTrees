@@ -1,0 +1,5 @@
+﻿  MonteCarloTreesApp.cpp
+C:\Users\kt2041008\Code\Cinder\MonteCarloTrees\src\MonteCarloTreesApp.cpp(44,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kt2041008\Code\Cinder\MonteCarloTrees\src\MonteCarloTreesApp.cpp(44,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kt2041008\Code\Cinder\MonteCarloTrees\src\MonteCarloTreesApp.cpp(140,113): warning C4305: 'argument': truncation from 'double' to 'float'
+  MonteCarloTrees.vcxproj -> C:\Users\kt2041008\Code\Cinder\MonteCarloTrees\vc2019\x64\Debug\MonteCarloTrees.exe
