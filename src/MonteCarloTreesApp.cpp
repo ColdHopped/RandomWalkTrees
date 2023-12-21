@@ -7,6 +7,7 @@
 #include <ctime>  // For seeding the random number generator
 #include <fstream>
 #include <iostream>
+#include "./../vc2019/RandomWalk.h"
 
 using namespace ci;
 using namespace ci::app;
@@ -60,9 +61,6 @@ private:
 	// Boolean to keep track of updating
 	bool updating = true;
 
-	// Method to generate random points in XYZ
-	static vector<vec3> generatePoints(int numPoints, float minX, float maxX, float minY, float maxY, float minZ, float maxZ);
-
 	// Method to generate a random walk
 	// Random walk is generated in spherical coordinates, with the definitions as in https://en.wikipedia.org/wiki/Spherical_coordinate_system
 	// Starting point is given with startX, startY and startZ
@@ -100,7 +98,7 @@ void MonteCarloTreesApp::setup()
 	walkPath.resize(numberOfStartingPoints, vector<vec3>(numberOfSteps + 1));
 
 	// Generate initial points
-	mStartPoints = generatePoints(numberOfStartingPoints, -1, 1, -1, 1, -1, 1);
+	mStartPoints = RandomWalk::generatePoints(numberOfStartingPoints, -1, 1, -1, 1, -1, 1);
 
 	// Initialize booleans
 	updating = true;
@@ -137,7 +135,7 @@ void MonteCarloTreesApp::update()
 				if(currentStep < 2)
 				{
 					// The first walk should not be weighted yet, since the direction of a point with a point is a Nan
-					walkPath[index][currentStep] = generateRandomWalkCircle(previousPoint.x, previousPoint.y, previousPoint.z, 0.2);
+					walkPath[index][currentStep] = generateRandomWalkCircle(previousPoint.x, previousPoint.y, previousPoint.z, 0.2f);
 				}
 				else
 				{
@@ -227,32 +225,6 @@ void MonteCarloTreesApp::keyDown(KeyEvent event){
 
 void MonteCarloTreesApp::keyUp(KeyEvent event) {
 	// Nothing yet
-}
-
-vector<vec3> MonteCarloTreesApp::generatePoints(int numPoints, float minX, float maxX, float minY, float maxY, float minZ, float maxZ)
-{
-	// Seed the RNG
-	std::random_device rd;
-	std::mt19937 rng(rd());  // NOLINT(cert-msc51-cpp)
-
-	// Define distributions for each coordinate
-	std::uniform_real_distribution<float> xDistribution(minX, maxX);
-	std::uniform_real_distribution<float> yDistribution(minY, maxY);
-	std::uniform_real_distribution<float> zDistribution(minZ, maxZ);
-
-	// Vector to store the generated points
-	std::vector<glm::vec3> generatedPoints;
-
-	// Generate random starting points
-	for (int i = 0; i < numPoints; ++i) {
-		float x = xDistribution(rng);
-		float y = yDistribution(rng);
-		float z = zDistribution(rng);
-
-		generatedPoints.emplace_back(x, y, z);
-	}
-
-	return generatedPoints;
 }
 
 vec3 MonteCarloTreesApp::generateRandomWalkCircle(float startX, float startY, float startZ, float maxR, float maxPhi, float maxTheta)
